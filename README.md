@@ -27,7 +27,7 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/DanielLimaC/amigo-secreto-one-alura.git
 Abra o arquivo index.html em seu navegador.
 
 Adicione os nomes dos participantes.
