@@ -39,6 +39,7 @@ Continue clicando em "Sortear próxima pessoa" até que reste apenas um nome.
 Clique em "Reiniciar Jogo" para começar novamente.
 
 🛠️ Tecnologias utilizadas
+
 HTML5
 
 CSS3
